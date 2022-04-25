@@ -25,22 +25,22 @@
         <preference name="firebase-ads" default="18.0.0" />
 
         <!-- Analytics -->
-        <preference name="firebase-analytics" default="17.0.0" />
+        <preference name="firebase-analytics" default="20.0.2" />
 
         <!-- App Indexing -->
         <preference name="firebase-appindexing" default="19.0.0" />
 
         <!-- Authentication -->
-        <preference name="firebase-auth" default="18.0.0" />
+        <preference name="firebase-auth" default="21.0.1" />
 
         <!-- Cloud Firestore -->
         <preference name="firebase-firestore" default="20.0.0" />
 
         <!-- Cloud Functions -->
-        <preference name="firebase-functions" default="18.0.0" />
+        <preference name="firebase-functions" default="20.0.1" />
 
         <!-- Cloud Messaging -->
-        <preference name="firebase-messaging" default="19.0.0" />
+        <preference name="firebase-messaging" default="23.0.0" />
 
         <!-- Cloud Storage -->
         <preference name="firebase-storage" default="18.0.0" />
@@ -94,13 +94,13 @@
         <preference name="firebase-ml-vision-automl" default="17.0.0" />
 
         <!-- Performance Monitoring -->
-        <preference name="firebase-perf" default="18.0.0" />
+        <preference name="firebase-perf" default="20.0.4" />
 
         <!-- Realtime Database -->
         <preference name="firebase-database" default="18.0.0" />
 
         <!-- Remote Config -->
-        <preference name="firebase-config" default="18.0.0" />
+        <preference name="firebase-config" default="21.0.1" />
 
         <framework src="cordova-android-firebase-gradle-release.gradle" custom="true" type="gradleReference" />
     </platform>
