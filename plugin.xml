@@ -34,7 +34,7 @@
         <preference name="firebase-auth" default="21.0.1" />
 
         <!-- Cloud Firestore -->
-        <preference name="firebase-firestore" default="20.0.0" />
+        <preference name="firebase-firestore" default="24.0.1" />
 
         <!-- Cloud Functions -->
         <preference name="firebase-functions" default="20.0.1" />
